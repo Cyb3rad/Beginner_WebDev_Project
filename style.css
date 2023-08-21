@@ -12,7 +12,7 @@ h2 {
     font-weight: bold;
 }
 body {
-    background-image: url("../images/pupbackground.jpg");
+    background-image: url("https://cyb3rad.github.io/Beginner_WebDev_Project/pupbackground.jpg");
     background-size: cover;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 20px;
