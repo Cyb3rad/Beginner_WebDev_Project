@@ -157,9 +157,9 @@ nav {
         text-decoration: none;
         color: white;
     }
-/*.contenttext {
+.contenttext {
+    page-width: 80%;
     }
-*/
 /*.header-imgage {
     display: block;
     width: 100%;
