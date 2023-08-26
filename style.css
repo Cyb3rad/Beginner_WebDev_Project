@@ -33,6 +33,7 @@ body {
 .contenttext {
     width: 80%;
     background-color: white;
+    text-align: left;
     margin-left: auto;
     margin-right: auto;
     padding-left: 20px;
