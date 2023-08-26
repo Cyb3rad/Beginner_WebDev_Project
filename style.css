@@ -171,8 +171,8 @@ nav {
         text-decoration: none;
         color: white;
     }
-/*.header-imgage {
-    display: block;
-    width: 100%;
-    margin: auto;
-}*/
+/* CSS class for controlling page width */
+.page-width {
+    max-width: 800px; /* Set the maximum width as desired */
+    margin: 0 auto;   /* Center the content horizontally */
+}
